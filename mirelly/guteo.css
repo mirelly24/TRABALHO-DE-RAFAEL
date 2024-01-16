@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(8, 44, 248) ;
+    margin: 0;
+    padding: 20px;
+
+}
+
+header h1 {
+    background-color: rgb(8, 44, 248);
+    color: black;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+section {
+text-align: center;}
+
+
